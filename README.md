@@ -1,4 +1,4 @@
-#Firebase Realtime Database
+# Firebase Realtime Database
 
 Este projeto é um aplicativo para controle de estoque desenvolvido para o Pensar e Responder 14 da matéria de Prática Integradora Desenvolvimento de Apps. Ele implementa a criação de produtos, visualização de produtos e remoção de produtos.
 
